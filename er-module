@@ -1,0 +1,25 @@
+class In as "Внутренний"
+class Out as "Внешний"
+
+class Prepare as "Планирование расписания"
+class Docs as "Создание отчетной документации"
+class Result as "Регистрация заявок"
+
+class Reaction as "Рекции на внештатные ситуации"
+class Definition as "Получение заказов"
+
+
+Modules<|-- In
+Modules<|-- Out
+
+In<|-- Prepare
+In<|-- Docs 
+In<|-- Result
+
+Out<|-- Reaction
+Out<|-- Definition
+
+hide members
+hide circle
+hide methods
+@enduml
