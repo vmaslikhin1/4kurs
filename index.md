@@ -20,6 +20,10 @@
   <h3><a name="6"></a>Лабораторная  работа №6</h3>
   <h3><a name="7"></a>Лабораторная  работа №7</h3>
  
- <script src="https://www.anekdot.ru/rss/randomu.html" charset="utf-8"></script>
+<script>var anekdot_count=1;</script>
+<div style="border: 1px solid #9999bb; background: #fbeecf; padding: 5px; max-width: 600px">
+<script src="https://www.anekdot.ru/rss/randomu.html" charset="utf-8">
+</script>
+</div>
  <p><a href="#top">Наверх</a></p>
 </body>
