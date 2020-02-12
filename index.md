@@ -20,5 +20,6 @@
   <h3><a name="6"></a>Лабораторная  работа №6</h3>
   <h3><a name="7"></a>Лабораторная  работа №7</h3>
  
+ <script src="https://www.anekdot.ru/rss/randomu.html" charset="utf-8"></script>
  <p><a href="#top">Наверх</a></p>
 </body>
