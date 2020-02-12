@@ -1,4 +1,4 @@
-<body>
+<body bgcolor="#FFFFF0">
  <h2><a name="top"></a>Отчеты по лабораторным работам за 8 семестр</h2>
  <h3>Маслихин Вадим ИДБ-16-05</h3>
   <p>На данной странице будут опубликованы отчеты по 7-ми лабораторным работам выполненным в процессе освоения курса <b>"Проектирование ИС"</b></p>
@@ -20,8 +20,8 @@
   <h3><a name="6"></a>Лабораторная  работа №6</h3>
   <h3><a name="7"></a>Лабораторная  работа №7</h3>
  
-<script>var anekdot_count=1;</script>
-<div style="border: 1px solid #9999bb; background: #fbeecf; padding: 5px; max-width: 600px">
+<script>var anekdot_count=2;</script>
+<div style="border: 1px solid #9999bb; background: #FFFFF0; padding: 5px; max-width: 600px">
 <script src="https://www.anekdot.ru/rss/randomu.html" charset="utf-8">
 </script>
 </div>
